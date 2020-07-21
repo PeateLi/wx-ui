@@ -1,34 +1,21 @@
-<font color=#ff7900>开源不易，需要鼓励。给 ThorUI项目点个 star吧</font>
+<font color=#ff7900>开源不易，需要鼓励。给 项目点个 star吧</font>
 
 # ThorUI
-ThorUI组件库，微信小程序代码片段分享
+组件库，微信小程序代码片段分享
 
 |  ![微信小程序](https://thorui.cn/img/applets.jpg) |![H5二维码](https://thorui.cn/img/h5_qrcode.png)  |![QQ小程序](https://thorui.cn/img/qq_applets.png)  |![Android](https://thorui.cn/img/thorui_apk.png)  |
 | ------------ | ------------ | ------------ | ------------ |
 |  微信小程序 |H5二维码  | QQ小程序  | Android App  |
 
 
-# 网站介绍
-
-[https://www.thorui.cn/](https://www.thorui.cn/)
-
-# ThorUI组件文档参考
-
-[https://www.thorui.cn/doc](https://www.thorui.cn/doc)
-
-
-| ![](https://thorui.cn/img/V132/qq_3.jpg)  |![](https://thorui.cn/img/V132/qq_new.jpg)  |
-| ------------ | ------------ |
-|  ThorUI QQ交流群3：605135318 |ThorUI QQ交流群2：881906325  | 
 
 
 
-本项目已同步更新到[uni-app](https://ext.dcloud.net.cn/plugin?id=556)，后续会同步支付宝小程序，百度小程序，头条小程序等
+本项目已同步更新到[uni-app]，后续会同步支付宝小程序，百度小程序，头条小程序等
 
 
 ## 更新日志
 
-## V1.5.1（2020-06-06）
 
 1.日历组件支持农历（古历）。
 
@@ -60,7 +47,6 @@ ThorUI组件库，微信小程序代码片段分享
 | ------------ | ------------ | ------------ |
 
 
-## V1.5.0 (2020-05-12)
 
 1.新增日历组件 。
 
@@ -121,7 +107,6 @@ ThorUI组件库，微信小程序代码片段分享
 |  ![](https://thorui.cn/img/v150/v1507.png) |![](https://thorui.cn/img/v150/v1508.png)  |![](https://thorui.cn/img/v150/v1509.jpg)  |
 
 
-# V1.4.2
 
 1.modal组件优化，宽高以及padding值可设置
 
@@ -139,7 +124,6 @@ ThorUI组件库，微信小程序代码片段分享
 |  ![](https://thorui.cn/img/v142/1.jpg) |![](https://thorui.cn/img/v142/2.jpg)  |![](https://thorui.cn/img/v142/3.jpg)  |
 | ------------ | ------------ | ------------ |
 
-# V1.4.1
 
 1.新增文档相关链接信息。
 
@@ -158,7 +142,6 @@ ThorUI组件库，微信小程序代码片段分享
 | ------------ | ------------ |
 |  ![](https://thorui.cn/img/V141/3.jpg) |![](https://thorui.cn/img/V141/4.png)  | 
 
-# V1.4.0
 
 1.新增日期时间选择器组件。
 
@@ -192,7 +175,6 @@ ThorUI组件库，微信小程序代码片段分享
 |  ![](https://thorui.cn/img/V140/10.png) |![](https://thorui.cn/img/V140/11.png)  |  ![](https://thorui.cn/img/V140/12.png) |
 |  ![](https://thorui.cn/img/V140/13.png) |![](https://thorui.cn/img/V140/14.png)  |  ![](https://thorui.cn/img/V140/15.png) |
 
-# V1.3.2
 
 1.扩展基础组件(保留了之前版本):alert、tips、button、toast。
 
@@ -206,8 +188,6 @@ ThorUI组件库，微信小程序代码片段分享
 |  ![](https://thorui.cn/img/V132/4.jpg) |![](https://thorui.cn/img/V132/2.jpg)  |  ![](https://thorui.cn/img/V132/3.jpg) |
 | ------------ | ------------ | ------------ |
 |   |    |   |
-
-# V1.3.0
 1.新增倒计时组件:时分秒倒计时，支持设置大小，颜色等。
 
 2.新增分隔符组件:Divider分隔符，可设置占据高度，线条宽度，颜色等。
@@ -216,12 +196,9 @@ ThorUI组件库，微信小程序代码片段分享
 
 4.已知问题修复以及优化。
 
-# V1.2.1
 1.新增组件Modal弹框:可设置按钮数，按钮样式，提示文字样式等，还可自定义弹框内容。 
 
 2.修复部分已知bug。
-
-# V1.2.0
 1.新增组件NumberBox数字框:可设置步长，支持浮点数，支持调整样式(可单独设置)。
 
 2.新增组件Rate评分:可设置星星数，可设置大小颜色。
@@ -232,7 +209,6 @@ ThorUI组件库，微信小程序代码片段分享
 
 5.优化部分体验。
 
-# V1.1.0
 1.将基础组件移出扩展，单独出来。
 
 2.扩展改为单独tab bar选项extend。
@@ -247,7 +223,6 @@ ThorUI组件库，微信小程序代码片段分享
 
 7.部分功能优化，修复已知bug。
 
-# V1.0.0
 1.【地图】新增拖拽定位功能
 
 2.【扩展】新增基础组件，包括：字体图标，按钮，Grid宫格，List列表，Card卡片...
@@ -262,7 +237,6 @@ ThorUI组件库，微信小程序代码片段分享
 
 ## 赞赏
 
-![image](https://thorui.cn/img/reward_small.jpg)
 
 
 #  商城模板部分截图
@@ -299,4 +273,3 @@ ThorUI组件库，微信小程序代码片段分享
 
 ## 赞赏
 
-![image](https://thorui.cn/img/reward_small.jpg)
